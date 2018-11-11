@@ -1,0 +1,77 @@
+Colors and Fonds/
+h2{color:grey ;  }
+h2{ text-decoration: underline;
+	font-size: : 50px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+}
+
+h1{padding-left: 50px;}
+p{margin-left: 10px;}
+a{padding-left: 10px;}
+
+h1{ 
+text-align: center;color: orange;
+
+}
+
+img{padding-right: 400px 
+padding-top: 40px}
+body {
+	text-align: center;
+	background-color: #A6AA9C;
+}
+
+
+
+
+.card-white {
+	border: 1.4px white;
+	background: orange ;
+	margin: 60px;
+	padding:12px ;
+	box-shadow:2px 2px 4px black;
+	border-top: 1px rgba(0, 0, 0 , 0,1);
+	border-radius: 10px ;
+
+}
+
+
+	.container{border: 1.4px white;
+	background: yellow ;
+	margin: 60px ;
+	padding:12px;
+	box-shadow:2px 2px 4px black;
+	border-top: 1px rgba(0, 0, 0 , 0,1);
+	border-radius: 10px ;
+;
+
+}
+@media	(max-width: 500px){
+	.container{
+		width:400px
+	}
+}
+
+.text-justify{`
+	text
+	text-align: justify-all;
+}
+h1{text-align: justify-all;}
+
+.btn-blue{border: 4px white}
+
+
+
+
+
+a{text-decoration: none;
+	transition: color 0,3s ease;
+	color: purple}
+
+
+li{list-style: none;}
+
+
+
+
